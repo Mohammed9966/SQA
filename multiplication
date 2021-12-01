@@ -1,0 +1,7 @@
+int a,b,c,d
+read a,b
+
+sum=a+b;
+print sum
+multiply = a*b
+print multiply
